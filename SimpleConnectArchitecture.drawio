@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T16:46:04.519Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KCn03tN-Gnan-P206yYO" version="24.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-22T16:48:50.461Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5qDx72NKZpHGO2Viwnqb" version="24.4.6" type="github" pages="2">
   <diagram name="Page-1" id="26uVEeSfF-JpeSk0SfAo">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K1LL7Rno4IdruMe-zehi" name="Page-2">
-    <mxGraphModel dx="2443" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2762" dy="2021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,6 +344,29 @@
         </mxCell>
         <mxCell id="wJkVAv7BltDB6LzUY1HX-80" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="130" y="-90" width="630" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wJkVAv7BltDB6LzUY1HX-81" value="Dependency Injections (Resolver)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=90;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="145" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wJkVAv7BltDB6LzUY1HX-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="wJkVAv7BltDB6LzUY1HX-80" target="wJkVAv7BltDB6LzUY1HX-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="170" as="sourcePoint" />
+            <mxPoint x="315" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="180" />
+              <mxPoint x="310" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wJkVAv7BltDB6LzUY1HX-83" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;elbow=vertical;edgeStyle=orthogonalEdgeStyle;dashed=1;" edge="1" parent="1" source="wJkVAv7BltDB6LzUY1HX-68" target="wJkVAv7BltDB6LzUY1HX-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550.7599999999998" y="230.25" as="sourcePoint" />
+            <mxPoint x="548.3199999999997" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="170" />
+              <mxPoint x="560" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
