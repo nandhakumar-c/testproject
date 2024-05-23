@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T04:50:21.654Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="IUJ64ubOpussVQt6vTQl" version="24.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-23T05:07:18.615Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="93ohguF-5IJxE-Phi-MK" version="24.4.6" type="github" pages="2">
   <diagram name="Page-1" id="26uVEeSfF-JpeSk0SfAo">
     <mxGraphModel dx="2600" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,6 +235,9 @@
         </mxCell>
         <mxCell id="2w5eTQxmc3opztZwA3bv-1" value="&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Kingfisher (Storing Image to S3 Bucket)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="wJkVAv7BltDB6LzUY1HX-70">
           <mxGeometry x="230" y="120" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SrTd_BE136ahcqxZ5RvF-1" value="&lt;span style=&quot;font-size: 16px; font-weight: 400;&quot;&gt;GraphQL Queries&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="wJkVAv7BltDB6LzUY1HX-70">
+          <mxGeometry x="430" y="120" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wJkVAv7BltDB6LzUY1HX-71" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="435" y="44.75" width="250" height="233.25" as="geometry" />
