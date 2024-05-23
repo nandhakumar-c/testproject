@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T04:44:38.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="u4L93iHDqjLTCWcvU3uz" version="24.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-23T04:48:21.864Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="L9MQCQn4rIOkfiA96jzM" version="24.4.6" type="github" pages="2">
   <diagram name="Page-1" id="26uVEeSfF-JpeSk0SfAo">
     <mxGraphModel dx="2600" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
           <mxGeometry x="230" y="60" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wJkVAv7BltDB6LzUY1HX-34" value="&lt;span style=&quot;font-size: 16px; font-weight: 400;&quot;&gt;Apollo GraphQL&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="wJkVAv7BltDB6LzUY1HX-70" vertex="1">
-          <mxGeometry x="430" y="80" width="180" height="50" as="geometry" />
+          <mxGeometry x="430" y="60" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wJkVAv7BltDB6LzUY1HX-108" value="&lt;span style=&quot;font-size: 16px; font-weight: 400;&quot;&gt;Local Caching Mechanisms&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="wJkVAv7BltDB6LzUY1HX-70" vertex="1">
           <mxGeometry x="25" y="120" width="180" height="50" as="geometry" />
